@@ -1,0 +1,1 @@
+/usr/bin/cc -rdynamic CMakeFiles/ejecutable.dir/oscilador.c.o -o ejecutable  -lm 

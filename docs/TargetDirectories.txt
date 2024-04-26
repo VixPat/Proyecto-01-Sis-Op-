@@ -1,0 +1,3 @@
+/mnt/c/Users/sofib/OneDrive/Escritorio/proyecto01_sistemas_operativos/build/CMakeFiles/ejecutable.dir
+/mnt/c/Users/sofib/OneDrive/Escritorio/proyecto01_sistemas_operativos/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/sofib/OneDrive/Escritorio/proyecto01_sistemas_operativos/build/CMakeFiles/rebuild_cache.dir
